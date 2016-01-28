@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.19)  28 JAN 2016 21:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.11.19)  28 JAN 2016 22:32
 entering extended mode
-**"C:/Users/Lukas/Documents/1 projecten/zombie serie/episodes/the god episode/f
-ile.tex"
+**"C:/Users/Lukas/Documents/1 projecten/zombie serie/episodes/robandsofie/the g
+od episode/file.tex"
 
-("C:/Users/Lukas/Documents/1 projecten/zombie serie/episodes/the god episode/fi
-le.tex"
+("C:/Users/Lukas/Documents/1 projecten/zombie serie/episodes/robandsofie/the go
+d episode/file.tex"
 LaTeX2e <2015/01/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 69 languages loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
@@ -219,16 +219,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 564--566
 [12] [13] [14] (file.aux) ) 
 Here is how much of TeX's memory you used:
  755 strings out of 493673
- 10402 string characters out of 3143959
+ 10438 string characters out of 3143959
  73223 words of memory out of 3000000
  4165 multiletter control sequences out of 15000+200000
  4285 words of font info for 16 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 24i,5n,32p,1128b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 24i,5n,32p,1140b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mti12.pfb>
-Output written on file.pdf (14 pages, 82026 bytes).
+Output written on file.pdf (14 pages, 82030 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
